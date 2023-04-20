@@ -1,4 +1,4 @@
-package com.jpcaillot.learningspringvscode.game;
+package com.jpcaillot.learningspring02.game;
 
 public interface GamingConsole {
     void up();

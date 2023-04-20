@@ -1,4 +1,4 @@
-package com.jpcaillot.learningspringvscode.game;
+package com.jpcaillot.learningspring01.game;
 
 public class SuperContraGame implements GamingConsole {
     

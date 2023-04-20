@@ -1,9 +1,9 @@
-package com.jpcaillot.learningspringvscode;
+package com.jpcaillot.learningspring01;
 
-import com.jpcaillot.learningspringvscode.game.GameRunner;
-import com.jpcaillot.learningspringvscode.game.MarioGame;
-import com.jpcaillot.learningspringvscode.game.PacManGame;
-import com.jpcaillot.learningspringvscode.game.SuperContraGame;
+import com.jpcaillot.learningspring01.game.GameRunner;
+import com.jpcaillot.learningspring01.game.MarioGame;
+import com.jpcaillot.learningspring01.game.PacManGame;
+import com.jpcaillot.learningspring01.game.SuperContraGame;
 
 public class App01GamingBasicJava {
     public static void main(String[] args) {
